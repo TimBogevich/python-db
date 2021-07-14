@@ -41,7 +41,7 @@ python main.py
 ## CI/CD
 
 You can check ci proccess in GitHub
-https://github.com/TimBogevich/python-db/runs/3065796288?check_suite_focus=true
+https://github.com/TimBogevich/python-db/actions
 
 
 ![result](https://snipboard.io/j4peSQ.jpg "result")
