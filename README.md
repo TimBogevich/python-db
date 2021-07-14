@@ -13,7 +13,7 @@ original task description was:
 ## Installation
 * Create virtual environment
 ```
-python -m virtualenv venv
+python -m virtualenv .venv
 ```
 * activate the virtual environment
 
@@ -28,7 +28,7 @@ source .venv/Scripts/Activate
 
 * Install dependencies
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 
