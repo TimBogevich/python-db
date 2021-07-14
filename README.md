@@ -6,6 +6,10 @@ original task description was:
 3. Java or PythonPragmatic, clean approach, little timeInclude everything you consider important for a SW project (e.g., readme)Deliver via Mail or GithubWe will run and examine your SW project
 
 
+[![Python application](https://github.com/TimBogevich/python-db/actions/workflows/python-app.yml/badge.svg)](https://github.com/TimBogevich/python-db/actions/workflows/python-app.yml)
+
+
+
 ## Installation
 * Create virtual environment
 ```
